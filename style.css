@@ -1,0 +1,67 @@
+body{
+	background-image: url("img/bg.jpg");
+	font-family: Avantgarde, sans-serif;
+}
+
+h1{
+	text-align: center;
+}
+
+h2{
+	text-align: center;
+}
+
+h3{
+	text-align: center;
+	margin-top: 150px;
+}
+
+p{
+	text-align: center;
+	margin-left: 500px;
+	margin-right: 500px;
+}
+
+.top3{
+
+	margin-top: 50px;
+	text-align: center;
+}
+
+a{
+	color: white;
+	text-decoration: none;
+}
+
+.een{
+	display: inline-block;
+    text-align: center;
+    padding: 14px 16px;
+    background-color: #e98b03;
+}
+
+.twee{
+	display: inline-block;
+    text-align: center;
+    padding: 14px 16px;
+    background-color: #e98b03;
+}
+
+.drie{
+	display: inline-block;
+    text-align: center;
+    padding: 14px 16px;
+    background-color: #e98b03;
+}
+
+.klein{
+	align-self: center;
+	display: inline-block;
+	padding: 14px 16px;
+	background-color: #e98b03;
+}
+
+.ingrediënte{
+	text-align: center;
+	margin-top: 50px;
+}

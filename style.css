@@ -13,7 +13,10 @@ h2{
 
 h3{
 	text-align: center;
-	margin-top: 150px;
+}
+
+h4{
+	text-align: center;
 }
 
 p{
@@ -59,9 +62,20 @@ a{
 	display: inline-block;
 	padding: 14px 16px;
 	background-color: #e98b03;
+	text-align: center;
+	margin-left: 752px;
+	margin-top: 10px;
+	opacity: 0.8;
+	width: 370px;
 }
 
-.ingrediënte{
-	text-align: center;
-	margin-top: 50px;
+img.nasi{
+	margin-left: 10px;
+}
+
+.pictures{
+	width: 377px;
+	height: 250px;
+	margin-top: 10px;
+	margin-left: 763px;
 }

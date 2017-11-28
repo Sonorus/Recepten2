@@ -25,36 +25,14 @@ p{
 	margin-right: 500px;
 }
 
-.top3{
-
-	margin-top: 50px;
-	text-align: center;
+ul{
+	text-decoration: none;
+	display: block;
 }
 
 a{
 	color: white;
 	text-decoration: none;
-}
-
-.een{
-	display: inline-block;
-    text-align: center;
-    padding: 14px 16px;
-    background-color: #e98b03;
-}
-
-.twee{
-	display: inline-block;
-    text-align: center;
-    padding: 14px 16px;
-    background-color: #e98b03;
-}
-
-.drie{
-	display: inline-block;
-    text-align: center;
-    padding: 14px 16px;
-    background-color: #e98b03;
 }
 
 .klein{
